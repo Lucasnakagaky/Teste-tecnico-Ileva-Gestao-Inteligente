@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../img/white-cube-pattern-4k.jpg);
+
+}
+
+.tela-login {
+    margin-top: 3rem;
+    background-color: #333;
+    position: absolute;
+    height: 420px;
+    width: 370px;
+    margin-left: 30rem;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.tela-login h1 {
+    padding: 0 0 5px;
+}
+
+input {
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.tela-login .inputSubmit {
+    background-color: dodgerblue;
+    border: none;
+    padding: 10px;
+    width: 70%;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.tela-login .inputSubmit:hover {
+    background-color: deepskyblue;
+    cursor: pointer;
+}

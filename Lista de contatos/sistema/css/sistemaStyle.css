@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../img/wallpapersden.com_abstract-neon-circle-shapes.jpg);
+}
+
+.header {
+    background-color: #133D57;
+}
+
+.text-white {
+    padding-left: 8px;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+}
+
+.table-bg {
+    background: #133D57;
+    border-radius: 15px 15px 0 0;
+}
